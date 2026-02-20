@@ -1,0 +1,7 @@
+C:\aaaa\FundamentosProgramacionM12\3.CondicionalesDoblesCompuestos\3.CondicionalesDoblesCompuestos\obj\Debug\3.CondicionalesDoblesCompuestos.csproj.AssemblyReference.cache
+C:\aaaa\FundamentosProgramacionM12\3.CondicionalesDoblesCompuestos\3.CondicionalesDoblesCompuestos\obj\Debug\3.CondicionalesDoblesCompuestos.csproj.CoreCompileInputs.cache
+C:\aaaa\FundamentosProgramacionM12\3.CondicionalesDoblesCompuestos\3.CondicionalesDoblesCompuestos\bin\Debug\3.CondicionalesDoblesCompuestos.exe.config
+C:\aaaa\FundamentosProgramacionM12\3.CondicionalesDoblesCompuestos\3.CondicionalesDoblesCompuestos\bin\Debug\3.CondicionalesDoblesCompuestos.exe
+C:\aaaa\FundamentosProgramacionM12\3.CondicionalesDoblesCompuestos\3.CondicionalesDoblesCompuestos\bin\Debug\3.CondicionalesDoblesCompuestos.pdb
+C:\aaaa\FundamentosProgramacionM12\3.CondicionalesDoblesCompuestos\3.CondicionalesDoblesCompuestos\obj\Debug\3.CondicionalesDoblesCompuestos.exe
+C:\aaaa\FundamentosProgramacionM12\3.CondicionalesDoblesCompuestos\3.CondicionalesDoblesCompuestos\obj\Debug\3.CondicionalesDoblesCompuestos.pdb
