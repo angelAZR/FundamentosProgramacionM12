@@ -1,0 +1,7 @@
+E:\juegos\RAAR\FundamentosProgramacionM12-main\4.EjercicioProgramacion\4.EjercicioProgramacion\bin\Debug\4.EjercicioProgramacion.exe.config
+E:\juegos\RAAR\FundamentosProgramacionM12-main\4.EjercicioProgramacion\4.EjercicioProgramacion\bin\Debug\4.EjercicioProgramacion.exe
+E:\juegos\RAAR\FundamentosProgramacionM12-main\4.EjercicioProgramacion\4.EjercicioProgramacion\bin\Debug\4.EjercicioProgramacion.pdb
+E:\juegos\RAAR\FundamentosProgramacionM12-main\4.EjercicioProgramacion\4.EjercicioProgramacion\obj\Debug\4.EjercicioProgramacion.csproj.AssemblyReference.cache
+E:\juegos\RAAR\FundamentosProgramacionM12-main\4.EjercicioProgramacion\4.EjercicioProgramacion\obj\Debug\4.EjercicioProgramacion.csproj.CoreCompileInputs.cache
+E:\juegos\RAAR\FundamentosProgramacionM12-main\4.EjercicioProgramacion\4.EjercicioProgramacion\obj\Debug\4.EjercicioProgramacion.exe
+E:\juegos\RAAR\FundamentosProgramacionM12-main\4.EjercicioProgramacion\4.EjercicioProgramacion\obj\Debug\4.EjercicioProgramacion.pdb
