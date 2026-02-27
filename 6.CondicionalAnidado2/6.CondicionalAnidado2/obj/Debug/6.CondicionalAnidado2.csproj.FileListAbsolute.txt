@@ -1,0 +1,7 @@
+C:\aaaa\FundamentosProgramacionM12\6.CondicionalAnidado2\6.CondicionalAnidado2\bin\Debug\6.CondicionalAnidado2.exe.config
+C:\aaaa\FundamentosProgramacionM12\6.CondicionalAnidado2\6.CondicionalAnidado2\bin\Debug\6.CondicionalAnidado2.exe
+C:\aaaa\FundamentosProgramacionM12\6.CondicionalAnidado2\6.CondicionalAnidado2\bin\Debug\6.CondicionalAnidado2.pdb
+C:\aaaa\FundamentosProgramacionM12\6.CondicionalAnidado2\6.CondicionalAnidado2\obj\Debug\6.CondicionalAnidado2.csproj.AssemblyReference.cache
+C:\aaaa\FundamentosProgramacionM12\6.CondicionalAnidado2\6.CondicionalAnidado2\obj\Debug\6.CondicionalAnidado2.csproj.CoreCompileInputs.cache
+C:\aaaa\FundamentosProgramacionM12\6.CondicionalAnidado2\6.CondicionalAnidado2\obj\Debug\6.CondicionalAnidado2.exe
+C:\aaaa\FundamentosProgramacionM12\6.CondicionalAnidado2\6.CondicionalAnidado2\obj\Debug\6.CondicionalAnidado2.pdb
