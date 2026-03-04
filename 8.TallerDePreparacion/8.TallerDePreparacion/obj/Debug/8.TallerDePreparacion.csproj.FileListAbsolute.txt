@@ -1,0 +1,7 @@
+C:\aaaa\FundamentosProgramacionM12\8.TallerDePreparacion\8.TallerDePreparacion\bin\Debug\8.TallerDePreparacion.exe.config
+C:\aaaa\FundamentosProgramacionM12\8.TallerDePreparacion\8.TallerDePreparacion\bin\Debug\8.TallerDePreparacion.exe
+C:\aaaa\FundamentosProgramacionM12\8.TallerDePreparacion\8.TallerDePreparacion\bin\Debug\8.TallerDePreparacion.pdb
+C:\aaaa\FundamentosProgramacionM12\8.TallerDePreparacion\8.TallerDePreparacion\obj\Debug\8.TallerDePreparacion.csproj.AssemblyReference.cache
+C:\aaaa\FundamentosProgramacionM12\8.TallerDePreparacion\8.TallerDePreparacion\obj\Debug\8.TallerDePreparacion.csproj.CoreCompileInputs.cache
+C:\aaaa\FundamentosProgramacionM12\8.TallerDePreparacion\8.TallerDePreparacion\obj\Debug\8.TallerDePreparacion.exe
+C:\aaaa\FundamentosProgramacionM12\8.TallerDePreparacion\8.TallerDePreparacion\obj\Debug\8.TallerDePreparacion.pdb
