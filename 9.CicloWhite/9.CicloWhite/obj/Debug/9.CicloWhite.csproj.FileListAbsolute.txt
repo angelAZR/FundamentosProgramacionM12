@@ -1,0 +1,7 @@
+C:\aaaa\FundamentosProgramacionM12\9.CicloWhite\9.CicloWhite\bin\Debug\9.CicloWhite.exe.config
+C:\aaaa\FundamentosProgramacionM12\9.CicloWhite\9.CicloWhite\bin\Debug\9.CicloWhite.exe
+C:\aaaa\FundamentosProgramacionM12\9.CicloWhite\9.CicloWhite\bin\Debug\9.CicloWhite.pdb
+C:\aaaa\FundamentosProgramacionM12\9.CicloWhite\9.CicloWhite\obj\Debug\9.CicloWhite.csproj.AssemblyReference.cache
+C:\aaaa\FundamentosProgramacionM12\9.CicloWhite\9.CicloWhite\obj\Debug\9.CicloWhite.csproj.CoreCompileInputs.cache
+C:\aaaa\FundamentosProgramacionM12\9.CicloWhite\9.CicloWhite\obj\Debug\9.CicloWhite.exe
+C:\aaaa\FundamentosProgramacionM12\9.CicloWhite\9.CicloWhite\obj\Debug\9.CicloWhite.pdb
