@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\aaaa\FundamentosProgramacionM12-main\17.Arreglos_Vectores\17.Arreglos_Vectores\bin\Debug\17.Arreglos_Vectores.exe.config
+C:\Users\B09S104est\Downloads\aaaa\FundamentosProgramacionM12-main\17.Arreglos_Vectores\17.Arreglos_Vectores\bin\Debug\17.Arreglos_Vectores.exe
+C:\Users\B09S104est\Downloads\aaaa\FundamentosProgramacionM12-main\17.Arreglos_Vectores\17.Arreglos_Vectores\bin\Debug\17.Arreglos_Vectores.pdb
+C:\Users\B09S104est\Downloads\aaaa\FundamentosProgramacionM12-main\17.Arreglos_Vectores\17.Arreglos_Vectores\obj\Debug\17.Arreglos_Vectores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\aaaa\FundamentosProgramacionM12-main\17.Arreglos_Vectores\17.Arreglos_Vectores\obj\Debug\17.Arreglos_Vectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\aaaa\FundamentosProgramacionM12-main\17.Arreglos_Vectores\17.Arreglos_Vectores\obj\Debug\17.Arreglos_Vectores.exe
+C:\Users\B09S104est\Downloads\aaaa\FundamentosProgramacionM12-main\17.Arreglos_Vectores\17.Arreglos_Vectores\obj\Debug\17.Arreglos_Vectores.pdb
