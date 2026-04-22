@@ -1,0 +1,7 @@
+E:\juegos\FundamentosProgramacionM12-main\13.CicloWhile\13.CicloWhile\bin\Debug\13.CicloWhile.exe.config
+E:\juegos\FundamentosProgramacionM12-main\13.CicloWhile\13.CicloWhile\bin\Debug\13.CicloWhile.exe
+E:\juegos\FundamentosProgramacionM12-main\13.CicloWhile\13.CicloWhile\bin\Debug\13.CicloWhile.pdb
+E:\juegos\FundamentosProgramacionM12-main\13.CicloWhile\13.CicloWhile\obj\Debug\13.CicloWhile.csproj.AssemblyReference.cache
+E:\juegos\FundamentosProgramacionM12-main\13.CicloWhile\13.CicloWhile\obj\Debug\13.CicloWhile.csproj.CoreCompileInputs.cache
+E:\juegos\FundamentosProgramacionM12-main\13.CicloWhile\13.CicloWhile\obj\Debug\13.CicloWhile.exe
+E:\juegos\FundamentosProgramacionM12-main\13.CicloWhile\13.CicloWhile\obj\Debug\13.CicloWhile.pdb
