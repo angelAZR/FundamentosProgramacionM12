@@ -1,0 +1,7 @@
+E:\juegos\FundamentosProgramacionM12-main\16.CicloFor\16.CicloFor\bin\Debug\16.CicloFor.exe.config
+E:\juegos\FundamentosProgramacionM12-main\16.CicloFor\16.CicloFor\bin\Debug\16.CicloFor.exe
+E:\juegos\FundamentosProgramacionM12-main\16.CicloFor\16.CicloFor\bin\Debug\16.CicloFor.pdb
+E:\juegos\FundamentosProgramacionM12-main\16.CicloFor\16.CicloFor\obj\Debug\16.CicloFor.csproj.AssemblyReference.cache
+E:\juegos\FundamentosProgramacionM12-main\16.CicloFor\16.CicloFor\obj\Debug\16.CicloFor.csproj.CoreCompileInputs.cache
+E:\juegos\FundamentosProgramacionM12-main\16.CicloFor\16.CicloFor\obj\Debug\16.CicloFor.exe
+E:\juegos\FundamentosProgramacionM12-main\16.CicloFor\16.CicloFor\obj\Debug\16.CicloFor.pdb
