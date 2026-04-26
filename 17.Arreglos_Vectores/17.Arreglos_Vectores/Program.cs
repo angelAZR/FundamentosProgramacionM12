@@ -36,8 +36,54 @@ namespace _17.Arreglos_Vectores
             }*/
             //Crear arreglo llamado "numeros" de 100 elementos asignar el numero 10 en cada una de las posiciones del arreglo. Leer el contenido de cada elemento y escribirlo en pantalla.
 
-            //Llene un arreglo con 15 nuemros ingresados por teclado. Una vez registrado el total de valores, muestre en pantalla todos los elementos del arreglo: Finalmente, determine cual numero mayor y cual es el numero menor, junto con la posicion que ocupa cada uno dentro del arreglo.
+            /*            int[] numeros = new int[100];
 
+                        for (int i = 0; i < numeros.Length; i++)
+                        {
+                            numeros[i] = 10;
+                        }
+
+                        for (int i = 0; i < numeros.Length; i++)
+                        {
+                            Console.WriteLine("Posición " + i + ": " + numeros[i]);
+                        }*/
+            //Llene un arreglo con 15 nuemros ingresados por teclado. Una vez registrado el total de valores, muestre en pantalla todos los elementos del arreglo: Finalmente, determine cual numero mayor y cual es el numero menor, junto con la posicion que ocupa cada uno dentro del arreglo.
+            int[] numeros = new int[15];
+
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                Console.Write("Ingrese el número " + (i + 1) + ": ");
+                numeros[i] = int.Parse(Console.ReadLine());
+            }
+
+            Console.WriteLine("\nElementos del arreglo:");
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                Console.WriteLine("Posición " + i + ": " + numeros[i]);
+            }
+
+            int mayor = numeros[0];
+            int menor = numeros[0];
+            int posMayor = 0;
+            int posMenor = 0;
+
+            for (int i = 1; i < numeros.Length; i++)
+            {
+                if (numeros[i] > mayor)
+                {
+                    mayor = numeros[i];
+                    posMayor = i;
+                }
+
+                if (numeros[i] < menor)
+                {
+                    menor = numeros[i];
+                    posMenor = i;
+                }
+            }
+
+            Console.WriteLine("\nNúmero mayor: " + mayor + " en la posición " + posMayor);
+            Console.WriteLine("Número menor: " + menor + " en la posición " + posMenor);
 
         }
     }
